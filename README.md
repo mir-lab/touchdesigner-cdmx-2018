@@ -14,10 +14,10 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 
 # Workshop Schedule
 
-### Day 1
+### Day 1 | Beginner
 
 
-### Day 2
+### Day 2 | Intermediate
 
 
-### Day 3
+### Day 3 | Advanced
