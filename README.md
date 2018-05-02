@@ -10,6 +10,7 @@ MIR Lab | [mir](https://mir.works)
 * [Python](https://www.python.org/)  
 
 ## Overview
+A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
 
 # Workshop Schedule
 
