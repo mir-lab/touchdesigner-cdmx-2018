@@ -8,6 +8,10 @@ TouchDesignerCrash*.dmp
 ###################
 data/logs/
 
+# vs code files #
+###################
+.vs/
+
 # Compiled source #
 ###################
 *.com
