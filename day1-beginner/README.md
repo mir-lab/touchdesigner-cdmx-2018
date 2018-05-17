@@ -1,7 +1,10 @@
-# touchdesigner-mexico-2018
+# TouchDesigner at INTUS | Mexico 2018
+
+## Hosting Studio
+[INTUS Interactive Design](http://intus.tv/)
 
 ## Artist | Instructors
-Matthew Ragan | [matthewragan.com](https://matthewragan.com)
+Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
 Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)
 MIR Lab | [mir](https://mir.works)
 
