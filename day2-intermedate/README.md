@@ -37,4 +37,4 @@ Time | Topic | Lead Instructor
 3:00p | Animation and Instances | Zoe / Matt
 3:30p | Posting to Instagram | Zoe / Matt
 4:30p | Ouputting SVGs | Zoe / matt
-6:00p | topic 8 | Zoe / Matt
+6:00p | Wrap | Zoe / Matt

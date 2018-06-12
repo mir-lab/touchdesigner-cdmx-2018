@@ -43,4 +43,4 @@ Time | Topic | Lead Instructor
 4:00p | Curl Noise | Zoe / Matt
 4:30p | Instance Manipluation | Zoe / Matt
 5:00p | Large System Archetcture | Zoe / Matt
-6:00p | topic 8 | Zoe / Matt
+6:00p | Wrap | Zoe / Matt
