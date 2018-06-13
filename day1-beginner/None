@@ -1,0 +1,107 @@
+{
+    "shapeDef": {
+        "0": {
+            "layer": 0.0,
+            "parameters": {
+                "Custompivotx": 367.0,
+                "Custompivoty": 0.0,
+                "Custompivotz": 0.0,
+                "Name": "Group",
+                "Pivot": "0",
+                "Type": "Layer"
+            },
+            "path": "/base_cdmx_2018/base_projection_mapping/base_reference/kantanMapper/project/allShapes/item0",
+            "type": "0"
+        },
+        "1": {
+            "layer": -1.0,
+            "parameters": {
+                "Custompivotx": 0.0,
+                "Custompivoty": 0.0,
+                "Custompivotz": 0.0,
+                "Name": "Group",
+                "Pivot": "0",
+                "Type": "Layer"
+            },
+            "path": "/base_cdmx_2018/base_projection_mapping/base_reference/kantanMapper/project/allShapes/item1",
+            "type": "0"
+        },
+        "2": {
+            "layer": -2.0,
+            "parameters": {
+                "Anisotropic": "off",
+                "Bias": 0.0,
+                "Colora": 1.0,
+                "Colorb": 0.40221646428108215,
+                "Colorg": 0.25,
+                "Colorr": 0.5,
+                "Cols": 3,
+                "Custompivotuvx": 27.002,
+                "Custompivotuvy": 1.00195,
+                "Custompivotuvz": 0.0,
+                "Custompivotx": -218.0,
+                "Custompivoty": 103.5,
+                "Custompivotz": 0.0,
+                "Enablesoftedge": false,
+                "Extendu": "zero",
+                "Extendv": "zero",
+                "Filter": "mipmaplinear",
+                "Fliptexture": false,
+                "Handlelock": true,
+                "Linearize": 0.0,
+                "Mapping": "perspective",
+                "Name": "Rectangle",
+                "Pivot": "4",
+                "Pivotuv": "4",
+                "Rolloff": "halfCos",
+                "Rows": 3,
+                "Showtexture": false,
+                "Softedge": 0.6,
+                "Steepness": 1.0,
+                "Texture": "",
+                "Textureorientation": "0",
+                "Type": "Rectangle",
+                "Uvmatrix": "tdu.Matrix()",
+                "Warp": "bezier"
+            },
+            "path": "/base_cdmx_2018/base_projection_mapping/base_reference/kantanMapper/project/allShapes/item2",
+            "shapeDef": {
+                "keyOffset": "id\tu\tv\r\n0\t0.35430464148521423\t0.036866359412670135\r\n1\t-0.46192052960395813\t-0.36866360902786255\r\n2\t0.3642384111881256\t-0.08294931054115295\r\n3\t-0.31622517108917236\t0.3410138189792633\r\n",
+                "pointOffset": "index\tP_0_\tP_1_\tP_2_\r\n",
+                "uvOffset": "\r\n",
+                "uvOffsetTexture": "index\tu\tv\r\n0\t0\t0\r\n1\t0\t0\r\n2\t0\t0\r\n3\t0\t0\r\n"
+            },
+            "shapeXform": "tdu.Matrix([604.0, 0.0, 0.0, 0.0, 0.0, 217.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -218.0, 103.5, 0.0, 1.0])",
+            "type": "1"
+        }
+    },
+    "shapes": [
+        {
+            "sId": "0",
+            "sLayer": "0",
+            "sLock": "0",
+            "sOwner": "-1",
+            "sPath": "/base_cdmx_2018/base_projection_mapping/base_reference/kantanMapper/project/allShapes/item0",
+            "sType": "0",
+            "sVisible": "1"
+        },
+        {
+            "sId": "1",
+            "sLayer": "1",
+            "sLock": "0",
+            "sOwner": "-1",
+            "sPath": "/base_cdmx_2018/base_projection_mapping/base_reference/kantanMapper/project/allShapes/item1",
+            "sType": "0",
+            "sVisible": "1"
+        },
+        {
+            "sId": "2",
+            "sLayer": "2",
+            "sLock": "0",
+            "sOwner": "-1",
+            "sPath": "/base_cdmx_2018/base_projection_mapping/base_reference/kantanMapper/project/allShapes/item2",
+            "sType": "1",
+            "sVisible": "1"
+        }
+    ]
+}
