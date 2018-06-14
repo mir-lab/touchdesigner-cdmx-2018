@@ -2,7 +2,7 @@ def save(current_touch_comp):
 	external 			= current_touch_comp.par.externaltox.val
 	external_path 		= '{project}/{tox}'.format( project=project.folder, tox = external)
 	default_ui_color 	= ui.colors['worksheet.bg']
-	saveing_color 		= (0.314, 0, 0.1736)
+	saveing_color 		= (0.157, 0.063, 0.308)
 	delay_script 		= "ui.colors['worksheet.bg'] = args[0]"
 	message_buttons 	= ['Cancel', 'Continue']
 	message_title 		= 'Save Warning'
