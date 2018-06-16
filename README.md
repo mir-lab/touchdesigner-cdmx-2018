@@ -5,7 +5,7 @@
 
 ## Artist | Instructors
 Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
-Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)
+Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)  
 MIR Lab | [mir](https://mir.works)
 
 ## Dependencies
