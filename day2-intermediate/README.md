@@ -5,8 +5,8 @@
 
 ## Artist | Instructors
 Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
-Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)
-MIR Lab | [mir](https://mir.works)
+Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)  
+Materializing Interactive Research  | [mir.works](https://mir.works)
 
 ## Overview
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
