@@ -12,7 +12,7 @@ Materializing Interactive Research  | [mir.works](https://mir.works)
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
 
 ## Day 2 | Intermediate
-### Session Overview
+### Session Highlights
 * What is Python and where does it fit within TouchDesigner
 * Speeding up iteration and design processes with Python
 * Working with the Animation COMP

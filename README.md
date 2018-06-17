@@ -15,45 +15,51 @@ MIR Lab | [mir](https://mir.works)
 ## Overview
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
 
-## Day 1 | Beginner
-### Session Overview
-* Navigating the TouchDesigner development environment
-* Best practices for development and organization
-* Image manipulation and realtime post-process effects
-* Realtime rendering for 3D scenes
-* Procedural Geometry and creating generative worlds
-* Techniques for building user interfaces for interactive systems
-* Foundational principles for creating generative artwork
-* Experience projection mapping with TouchDesigner
-* An introduction to Python as a scripting language
-
-## Day 2 | Intermediate
-### Session Overview
-* What is Python and where does it fit within TouchDesigner
-* Speeding up iteration and design processes with Python
-* Working with the Animation COMP
-* Custom Curves
-* Animated Particles
-* Animated Instances
-* Using audio inputs to control and drive visuals 
-* Outputting geometry from TouchDesigner as SVGs
-* Best practices for using Python inside of TouchDesigner
-
-## Day 3 | Advanced
-### Session Overview
-* Advanced material controls for realtime rendering
-* Stunning visuals with physically-based rendering
-* GLSL and basic shader anatomy
-* Working with GLSL in 2D (fragment shaders)
-* Working with GLSL in 3D (vertex shaders)
-* Noise functions and generative art
-* Landscapes
-* Environments
-* Animating geometry with shaders
-* Adding functions to GLSL materials
-* Larger system architecture and organization
-* Working at scale
-* Working on teams
-* Using a Version Control System
 
 # Workshop Schedule
+
+## Day 1 Workshop Schedule
+Time | Topic | Lead Instructor
+-----|-------|-----------------
+10:00am | Intro, Context & Roundtable | Zoe / Matt
+10:30am | Building Networks | Zoe / Matt
+11:30am | Procedural Geometry | Zoe / Matt
+12:00pm | Realtime Rendering & Post Process | Zoe / Matt
+1:00p | Break for Lunch | Zoe / Matt
+2:00p | Interface Design | Zoe / Matt
+3:00p | Advanced Rendering | Zoe / Matt
+4:30p | Projection Mapping | Zoe / Matt
+6:00p | Wrap | Zoe / Matt
+
+## Day 2 Workshop Schedule
+Time | Topic | Lead Instructor
+-----|-------|-----------------
+10:00am | Intro, Context & Roundtable | Zoe / Matt
+10:30am | Python - References | Zoe / Matt
+11:00am | Python - Simple Scripts and Loops | Zoe / Matt
+11:30am | Python and the Replicator COMP | Zoe / Matt
+12:30pm | Python vs. Chops | Zoe / Matt
+1:00p | Break for Lunch | Zoe / Matt
+2:00p | Animation Comp  | Zoe / Matt
+2:30p | Animation and Particles | Zoe / Matt
+3:00p | Animation and Instances | Zoe / Matt
+3:30p | Posting to Instagram | Zoe / Matt
+4:30p | Ouputting SVGs | Zoe / matt
+6:00p | Wrap | Zoe / Matt
+
+## Day 3 Workshop Schedule
+Time | Topic | Lead Instructor
+-----|-------|-----------------
+10:00am | Intro, Context & Roundtable | Zoe / Matt
+10:30am | Advanced Material Controls | Zoe / Matt
+11:00am | The knobs and sliders you don't use | Zoe / Matt
+11:30am | PBR Rendering | Zoe / Matt
+12:00pm | Frag Shader Anatomy | Zoe / Matt
+12:30pm | Vertext Shader Anatomy | Zoe / Matt
+1:00p | Break for Lunch | Zoe / Matt
+2:00p | Noise as Landscape and Topography | Zoe / Matt
+3:30p | Adding Functions to your GLSL Materials | Zoe / Matt
+4:00p | Curl Noise | Zoe / Matt
+4:30p | Instance Manipluation | Zoe / Matt
+5:00p | Large System Archetcture | Zoe / Matt
+6:00p | Wrap | Zoe / Matt

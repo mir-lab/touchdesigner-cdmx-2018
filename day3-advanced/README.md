@@ -12,7 +12,7 @@ MIR Lab | [mir](https://mir.works)
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
 
 ## Day 3 | Advanced
-### Session Overview
+### Session Highlights
 * Advanced material controls for realtime rendering
 * Stunning visuals with physically-based rendering
 * GLSL and basic shader anatomy
