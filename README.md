@@ -63,7 +63,7 @@ Time | Topic | Lead Instructor
 5:00p | Large System Architecture | Matt
 6:00p | Wrap | All
 
-## Día 1 - Principante
+## Día 1 - Principiante
 Hora | Tema | Instructor Principal
 -----|-------|-----------------
 10:00a | Introducciones y Contexto | Todos
