@@ -21,10 +21,10 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 ## Day 1 Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
-10:00am | Intro, Context & Roundtable | All
-10:30am | Building Networks | Matt
-11:30am | Procedural Geometry | Matt
-12:00pm | Realtime Rendering & Post Process | Zoe
+10:00a | Intro, Context & Roundtable | All
+10:30a | Building Networks | Matt
+11:30a | Procedural Geometry | Matt
+12:00p | Realtime Rendering & Post Process | Zoe
 1:00p | Break for Lunch | All
 2:00p | Interface Design | Matt
 3:00p | Advanced Rendering | Matt
@@ -34,28 +34,28 @@ Time | Topic | Lead Instructor
 ## Day 2 Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
-10:00am | Intro, Context & Roundtable | All
-10:30am | Python - References | Matt
-11:00am | Python - Simple Scripts and Loops | Matt
-11:30am | Python and the Replicator COMP | Matt
-12:30pm | Animation Comp | Zoe
+10:00a | Intro, Context & Roundtable | All
+10:30a | Python & References | Matt
+11:00a | Python, Simple Scripts and Loops | Matt
+11:30a | Python & the Replicator COMP | Matt
+12:30p | Animation Comp | Zoe
 1:00p | Break for Lunch | All
-2:00p | Animation Comp and Instances | Zoe
-3:00p | Animation Comp and Particles | Matt
-4:00p | Audio Inputs and Visual Control | Matt
+2:00p | Animation Comp & Instances | Zoe
+3:00p | Animation Comp & Particles | Matt
+4:00p | Audio Inputs & Visual Control | Matt
 5:00p | Posting to Instagram | Zoe
 6:00p | Wrap | All
 
 ## Day 3 Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
-10:00am | Intro, Context & Roundtable | All
-10:30am | Advanced Material Controls | Matt
-11:00am | PBR Rendering | Zoe
-12:30pm | Fragment Shader Anatomy | Matt
+10:00a | Intro, Context & Roundtable | All
+10:30a | Advanced Material Controls | Matt
+11:00a | PBR Rendering | Zoe
+12:30p | Fragment Shader Anatomy | Matt
 1:00p | Break for Lunch | All
 2:00p | Vertext Shader Anatomy | Matt
-2:30p | Noise as Landscape and Topography | Matt
+2:30p | Noise as Landscape & Topography | Matt
 3:30p | Curl Noise | Matt
 4:30p | Instance Manipluation | Matt
 5:00p | Large System Archetcture | Matt
