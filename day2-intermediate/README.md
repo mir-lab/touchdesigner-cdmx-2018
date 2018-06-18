@@ -38,6 +38,21 @@ Time | Topic | Lead Instructor
 5:00p | Posting to Instagram | Zoe
 6:00p | Wrap | All
 
+# Horario del Taller
+Hora | Tema | Instructor Principal
+-----|-------|-----------------
+10:00a | Introducciones y Contexto | Todos
+10:30a | Python con Referencias | Matt
+11:00a | Comprensión de Python | Matt
+11:30a | Python y COMP de Replicador | Matt
+12:30p | COMP de Animación | Zoe
+1:00p | Pausa y Almuerzo | Todos
+2:00p | COMP de Animación y Instancias | Zoe
+3:00p | COMP de Animación y Particulas | Matt
+4:00p | Usando Audio para Control Visual | Matt
+5:00p | Cargando a Instagram | Zoe
+6:00p | Fin | Todos
+
 # Dependencies
 **TouchDesigner 099** - https://www.derivative.ca/099/Downloads/  
 

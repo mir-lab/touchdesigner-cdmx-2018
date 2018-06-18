@@ -35,3 +35,16 @@ Time | Topic | Lead Instructor
 3:00p | Advanced Rendering | Matt
 4:30p | Projection Mapping | Zoe
 6:00p | Wrap | All
+
+# Horario del Taller
+Hora | Tema | Instructor Principal
+-----|-------|-----------------
+10:00a | Introducciones y Contexto | Todos
+10:30a | Navegando el Ambiente (TOPs y CHOPs) | Matt
+11:30a | Geometría de Procedimiento | Matt
+12:00p | Render en Tiempo Real con Postproceso | Zoe
+1:00p | Pausa y Almuerzo | Todos
+2:00p | Diseño de Interfaces | Matt
+3:00p | Render Avanzados | Matt
+4:30p | Videomapping | Zoe
+6:00p | Fin | Todos

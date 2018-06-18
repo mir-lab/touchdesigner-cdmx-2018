@@ -41,4 +41,19 @@ Time | Topic | Lead Instructor
 3:30p | Curl Noise | Matt
 4:30p | Instance Manipluation | Matt
 5:00p | Large System Architecture | Matt
-6:00p | Wrap | All
+6:00p | Wrap | 
+
+# Horario del Taller
+Hora | Tema | Instructor Principal
+-----|-------|-----------------
+10:00a | Introducciones y Contexto | Todos
+10:30a | Controles Avanzados para Materiales | Matt
+11:00a | Render con 'PBR' | Zoe
+12:30p | Anatomia de Sombreadores Fragmentos | Matt
+1:00p | Pausa y Almuerzo | Todos
+2:00p | Anatomia de Sombreadores Vértices | Matt
+2:30p | Ruido como Topografía | Matt
+3:30p | Rudio 'Curl' | Matt
+4:30p | Manipulación de Instancias | Matt
+5:00p | Arquitectura de Sistemas Grandes | Matt
+6:00p | Fin | Todos
