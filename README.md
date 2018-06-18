@@ -8,17 +8,17 @@ Matthew Ragan | [matthewragan.com](https://matthewragan.com)
 Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)  
 Materializing Interactive Research | [mir.works](https://mir.works)
 
-## Dependencies // Dependencias
+## Dependencies //  Dependencias
 * [TouchDesigner099](https://www.derivative.ca/099/Downloads/)  
 * [Python](https://www.python.org/)  
 
-## Overview // Resumen
+## Overview //  Resumen
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
 
 Un taller de tres días sobre Derivative TouchDesigner para usuarios principiantes a avanzados.
 
 
-# Workshop Schedule // Horario del Taller
+# Workshop Schedule //  Horario del Taller
 
 ## Day 1 - Beginner
 Time | Topic | Lead Instructor
@@ -50,16 +50,16 @@ Time | Topic | Lead Instructor
 
 ## Day 3 - Advanced
 Time | Topic | Lead Instructor
------|-------|------terial Controls | Matt
+-----|-------|-----------------
+10:00a | Intro, Context & Roundtable | All
+10:30a | Advanced Material Controls | Matt
 11:00a | PBR Rendering | Zoe
 12:30p | Fragment Shader Anatomy | Matt
 1:00p | Break for Lunch | All
 2:00p | Vertext Shader Anatomy | Matt
 2:30p | Noise as Landscape & Topography | Matt
 3:30p | Curl Noise | Matt
-4:30p | Instance Man-----------
-10:00a | Intro, Context & Roundtable | All
-10:30a | Advanced Maipluation | Matt
+4:30p | Instance Manipluation | Matt
 5:00p | Large System Architecture | Matt
 6:00p | Wrap | All
 
