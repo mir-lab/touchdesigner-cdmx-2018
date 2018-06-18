@@ -6,7 +6,7 @@
 ## Artist | Instructors
 Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
 Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)
-MIR Lab | [mir](https://mir.works)
+Materializing Interactive Research | [mir.works](https://mir.works)
 
 ## Overview
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
@@ -26,12 +26,12 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 # Day 1 Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
-10:00am | Intro, Context & Roundtable | Zoe / Matt
-10:30am | Building Networks | Zoe / Matt
-11:30am | Procedural Geometry | Zoe / Matt
-12:00pm | Realtime Rendering & Post Process | Zoe / Matt
-1:00p | Break for Lunch | Zoe / Matt
-2:00p | Interface Design | Zoe / Matt
-3:00p | Advanced Rendering | Zoe / Matt
-4:30p | Projection Mapping | Zoe / Matt
-6:00p | Wrap | Zoe / Matt
+10:00a | Intro, Context & Roundtable | All
+10:30a | Building Networks | Matt
+11:30a | Procedural Geometry | Matt
+12:00p | Realtime Rendering & Post Process | Zoe
+1:00p | Break for Lunch | All
+2:00p | Interface Design | Matt
+3:00p | Advanced Rendering | Matt
+4:30p | Projection Mapping | Zoe
+6:00p | Wrap | All

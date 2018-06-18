@@ -6,7 +6,7 @@
 ## Artist | Instructors
 Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
 Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)
-MIR Lab | [mir](https://mir.works)
+Materializing Interactive Research | [mir.works](https://mir.works)
 
 ## Overview
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
@@ -31,16 +31,14 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 # Day 3 Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
-10:00am | Intro, Context & Roundtable | Zoe / Matt
-10:30am | Advanced Material Controls | Zoe / Matt
-11:00am | The knobs and sliders you don't use | Zoe / Matt
-11:30am | PBR Rendering | Zoe / Matt
-12:00pm | Frag Shader Anatomy | Zoe / Matt
-12:30pm | Vertext Shader Anatomy | Zoe / Matt
-1:00p | Break for Lunch | Zoe / Matt
-2:00p | Noise as Landscape and Topography | Zoe / Matt
-3:30p | Adding Functions to your GLSL Materials | Zoe / Matt
-4:00p | Curl Noise | Zoe / Matt
-4:30p | Instance Manipluation | Zoe / Matt
-5:00p | Large System Archetcture | Zoe / Matt
-6:00p | Wrap | Zoe / Matt
+10:00a | Intro, Context & Roundtable | All
+10:30a | Advanced Material Controls | Matt
+11:00a | PBR Rendering | Zoe
+12:30p | Fragment Shader Anatomy | Matt
+1:00p | Break for Lunch | All
+2:00p | Vertext Shader Anatomy | Matt
+2:30p | Noise as Landscape & Topography | Matt
+3:30p | Curl Noise | Matt
+4:30p | Instance Manipluation | Matt
+5:00p | Large System Architecture | Matt
+6:00p | Wrap | All

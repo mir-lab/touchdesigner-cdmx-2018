@@ -58,5 +58,5 @@ Time | Topic | Lead Instructor
 2:30p | Noise as Landscape & Topography | Matt
 3:30p | Curl Noise | Matt
 4:30p | Instance Manipluation | Matt
-5:00p | Large System Archetcture | Matt
+5:00p | Large System Architecture | Matt
 6:00p | Wrap | All

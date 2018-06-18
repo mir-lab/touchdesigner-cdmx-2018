@@ -6,7 +6,7 @@
 ## Artist | Instructors
 Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
 Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)  
-Materializing Interactive Research  | [mir.works](https://mir.works)
+Materializing Interactive Research | [mir.works](https://mir.works)
 
 ## Overview
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
@@ -26,18 +26,17 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 # Day 2 Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
-10:00am | Intro, Context & Roundtable | Zoe / Matt
-10:30am | Python - References | Zoe / Matt
-11:00am | Python - Simple Scripts and Loops | Zoe / Matt
-11:30am | Python and the Replicator COMP | Zoe / Matt
-12:30pm | Python vs. Chops | Zoe / Matt
-1:00p | Break for Lunch | Zoe / Matt
-2:00p | Animation Comp  | Zoe / Matt
-2:30p | Animation and Particles | Zoe / Matt
-3:00p | Animation and Instances | Zoe / Matt
-3:30p | Posting to Instagram | Zoe / Matt
-4:30p | Ouputting SVGs | Zoe / matt
-6:00p | Wrap | Zoe / Matt
+10:00a | Intro, Context & Roundtable | All
+10:30a | Python & References | Matt
+11:00a | Python, Simple Scripts and Loops | Matt
+11:30a | Python & the Replicator COMP | Matt
+12:30p | Animation Comp | Zoe
+1:00p | Break for Lunch | All
+2:00p | Animation Comp & Instances | Zoe
+3:00p | Animation Comp & Particles | Matt
+4:00p | Audio Inputs & Visual Control | Matt
+5:00p | Posting to Instagram | Zoe
+6:00p | Wrap | All
 
 # Dependencies
 **TouchDesigner 099** - https://www.derivative.ca/099/Downloads/  
