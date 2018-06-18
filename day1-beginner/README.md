@@ -12,7 +12,7 @@ MIR Lab | [mir](https://mir.works)
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
 
 ## Day 1 | Beginner
-### Session Overview
+### Session Highlights
 * Navigating the TouchDesigner development environment
 * Best practices for development and organization
 * Image manipulation and realtime post-process effects
