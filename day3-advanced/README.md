@@ -28,7 +28,6 @@ Un taller de tres días sobre Derivative TouchDesigner para usuarios principiant
 * Landscapes
 * Environments
 * Animating geometry with shaders
-* Adding functions to GLSL materials
 * Larger system architecture and organization
 * Working at scale
 * Working on teams
@@ -41,15 +40,12 @@ Un taller de tres días sobre Derivative TouchDesigner para usuarios principiant
 * GLSL y la anatomía básica de sombreadores 
 * Trabajando con GLSL en 2D (sombreadores de fragmentos)
 * Trabajando con GLSL en 3D (sombreadores de vértices)
-* Funciones de ruido y arte generativo
-** Paisajes
-** Ambientes
+* Funciones de ruido y arte generativo (paisajes y ambientes)
 * Animando geometría con sombreadores 
-** Agregando funciones a materiales GLSL
 * Arquitectura de sistemas grandes
-** Trabando a escala
-** Trabajando en equipos
-** Usando un sistema para controlar versión
+* Trabando a escala
+* Trabajando en equipos
+* Usando un sistema para controlar versión
 
 
 # Workshop Schedule

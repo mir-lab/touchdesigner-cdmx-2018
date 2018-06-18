@@ -34,9 +34,9 @@ Un taller de tres días sobre Derivative TouchDesigner para usuarios principiant
 * Qué es Python y como se usa en TouchDesigner
 * Acelerando el proceso de iteración y diseño con Python
 * Trabajando con el componente de animación
-** Curvas Personalizadas
-** Partículas Animadas
-** Instancias Animadas
+* Curvas Personalizadas
+* Partículas Animadas
+* Instancias Animadas
 * Usando audio para controlar visuales
 * Subiendo imagenes a Instagram desde TouchDesigner
 * Exportando geometria de TouchDesigner como SVGs
