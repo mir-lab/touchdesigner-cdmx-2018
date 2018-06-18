@@ -21,45 +21,42 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 ## Day 1 Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
-10:00am | Intro, Context & Roundtable | Zoe / Matt
-10:30am | Building Networks | Zoe / Matt
-11:30am | Procedural Geometry | Zoe / Matt
-12:00pm | Realtime Rendering & Post Process | Zoe / Matt
-1:00p | Break for Lunch | Zoe / Matt
-2:00p | Interface Design | Zoe / Matt
-3:00p | Advanced Rendering | Zoe / Matt
-4:30p | Projection Mapping | Zoe / Matt
-6:00p | Wrap | Zoe / Matt
+10:00am | Intro, Context & Roundtable | All
+10:30am | Building Networks | Matt
+11:30am | Procedural Geometry | Matt
+12:00pm | Realtime Rendering & Post Process | Zoe
+1:00p | Break for Lunch | All
+2:00p | Interface Design | Matt
+3:00p | Advanced Rendering | Matt
+4:30p | Projection Mapping | Zoe
+6:00p | Wrap | All
 
 ## Day 2 Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
-10:00am | Intro, Context & Roundtable | Zoe / Matt
-10:30am | Python - References | Zoe / Matt
-11:00am | Python - Simple Scripts and Loops | Zoe / Matt
-11:30am | Python and the Replicator COMP | Zoe / Matt
-12:30pm | Python vs. Chops | Zoe / Matt
-1:00p | Break for Lunch | Zoe / Matt
-2:00p | Animation Comp  | Zoe / Matt
-2:30p | Animation and Particles | Zoe / Matt
-3:00p | Animation and Instances | Zoe / Matt
-3:30p | Posting to Instagram | Zoe / Matt
-4:30p | Ouputting SVGs | Zoe / matt
-6:00p | Wrap | Zoe / Matt
+10:00am | Intro, Context & Roundtable | All
+10:30am | Python - References | Matt
+11:00am | Python - Simple Scripts and Loops | Matt
+11:30am | Python and the Replicator COMP | Matt
+12:30pm | Animation Comp | Zoe
+1:00p | Break for Lunch | All
+2:00p | Animation Comp and Instances | Zoe
+3:00p | Animation Comp and Particles | Matt
+4:00p | Audio Inputs and Visual Control | Matt
+5:00p | Posting to Instagram | Zoe
+6:00p | Wrap | All
 
 ## Day 3 Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
-10:00am | Intro, Context & Roundtable | Zoe / Matt
-10:30am | Advanced Material Controls | Zoe / Matt
-11:00am | The knobs and sliders you don't use | Zoe / Matt
-11:30am | PBR Rendering | Zoe / Matt
-12:00pm | Frag Shader Anatomy | Zoe / Matt
-12:30pm | Vertext Shader Anatomy | Zoe / Matt
-1:00p | Break for Lunch | Zoe / Matt
-2:00p | Noise as Landscape and Topography | Zoe / Matt
-3:30p | Adding Functions to your GLSL Materials | Zoe / Matt
-4:00p | Curl Noise | Zoe / Matt
-4:30p | Instance Manipluation | Zoe / Matt
-5:00p | Large System Archetcture | Zoe / Matt
-6:00p | Wrap | Zoe / Matt
+10:00am | Intro, Context & Roundtable | All
+10:30am | Advanced Material Controls | Matt
+11:00am | PBR Rendering | Zoe
+12:30pm | Fragment Shader Anatomy | Matt
+1:00p | Break for Lunch | All
+2:00p | Vertext Shader Anatomy | Matt
+2:30p | Noise as Landscape and Topography | Matt
+3:30p | Curl Noise | Matt
+4:30p | Instance Manipluation | Matt
+5:00p | Large System Archetcture | Matt
+6:00p | Wrap | All
