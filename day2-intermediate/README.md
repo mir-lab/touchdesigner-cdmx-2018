@@ -1,4 +1,4 @@
-# TouchDesigner at INTUS | Mexico 2018
+# TouchDesigner @ INTUS | Mexico 2018
 
 ## Hosting Studio
 [INTUS Interactive Design](http://intus.tv/)
@@ -23,7 +23,7 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 * Outputting geometry from TouchDesigner as SVGs
 * Best practices for using Python inside of TouchDesigner
 
-# Day 2 Workshop Schedule
+# Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
 10:00a | Intro, Context & Roundtable | All

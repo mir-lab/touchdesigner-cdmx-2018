@@ -1,11 +1,11 @@
-# TouchDesigner at INTUS | Mexico 2018
+# TouchDesigner @ INTUS | Mexico 2018
 
 ## Hosting Studio
 [INTUS Interactive Design](http://intus.tv/)
 
 ## Artist | Instructors
 Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
-Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)
+Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)  
 Materializing Interactive Research | [mir.works](https://mir.works)
 
 ## Overview
@@ -28,7 +28,7 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 * Working on teams
 * Using a Version Control System
 
-# Day 3 Workshop Schedule
+# Workshop Schedule
 Time | Topic | Lead Instructor
 -----|-------|-----------------
 10:00a | Intro, Context & Roundtable | All
