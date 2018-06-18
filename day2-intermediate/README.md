@@ -1,15 +1,21 @@
 # TouchDesigner @ INTUS | Mexico 2018
 
-## Hosting Studio
+## Hosting Studio | Organizador
 [INTUS Interactive Design](http://intus.tv/)
 
-## Artist | Instructors
-Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
+## Artist Instructors | Instructores
+Matthew Ragan | [matthewragan.com](https://matthewragan.com) 
 Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)  
 Materializing Interactive Research | [mir.works](https://mir.works)
 
-## Overview
+## Dependencies | Dependencias
+* [TouchDesigner099](https://www.derivative.ca/099/Downloads/)  
+* [Python](https://www.python.org/)  
+
+## Overview | Resumen
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
+
+Un taller de tres días sobre Derivative TouchDesigner para usuarios principiantes a avanzados.
 
 ## Day 2 | Intermediate
 ### Session Highlights
@@ -22,6 +28,20 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 * Using audio inputs to control and drive visuals 
 * Outputting geometry from TouchDesigner as SVGs
 * Best practices for using Python inside of TouchDesigner
+
+## Día 2 | Intermedio
+### Sesión
+* Qué es Python y como se usa en TouchDesigner
+* Acelerando el proceso de iteración y diseño con Python
+* Trabajando con el componente de animación
+** Curvas Personalizadas
+** Partículas Animadas
+** Instancias Animadas
+* Usando audio para controlar visuales
+* Subiendo imagenes a Instagram desde TouchDesigner
+* Exportando geometria de TouchDesigner como SVGs
+* Mejores prácticas para usar Python en TouchDesigner
+
 
 # Workshop Schedule
 Time | Topic | Lead Instructor

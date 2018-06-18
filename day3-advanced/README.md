@@ -1,15 +1,21 @@
 # TouchDesigner @ INTUS | Mexico 2018
 
-## Hosting Studio
+## Hosting Studio | Organizador
 [INTUS Interactive Design](http://intus.tv/)
 
-## Artist | Instructors
-Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
+## Artist Instructors | Instructores
+Matthew Ragan | [matthewragan.com](https://matthewragan.com) 
 Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)  
 Materializing Interactive Research | [mir.works](https://mir.works)
 
-## Overview
+## Dependencies | Dependencias
+* [TouchDesigner099](https://www.derivative.ca/099/Downloads/)  
+* [Python](https://www.python.org/)  
+
+## Overview | Resumen
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
+
+Un taller de tres días sobre Derivative TouchDesigner para usuarios principiantes a avanzados.
 
 ## Day 3 | Advanced
 ### Session Highlights
@@ -27,6 +33,24 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 * Working at scale
 * Working on teams
 * Using a Version Control System
+
+## Día 3 | Avanzado
+### Sesión
+* Controles de materiales avanzados en tiempo real
+* Imágenes impresionantes usando PBRs
+* GLSL y la anatomía básica de sombreadores 
+* Trabajando con GLSL en 2D (sombreadores de fragmentos)
+* Trabajando con GLSL en 3D (sombreadores de vértices)
+* Funciones de ruido y arte generativo
+** Paisajes
+** Ambientes
+* Animando geometría con sombreadores 
+** Agregando funciones a materiales GLSL
+* Arquitectura de sistemas grandes
+** Trabando a escala
+** Trabajando en equipos
+** Usando un sistema para controlar versión
+
 
 # Workshop Schedule
 Time | Topic | Lead Instructor

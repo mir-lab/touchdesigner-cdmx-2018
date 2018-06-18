@@ -1,15 +1,21 @@
 # TouchDesigner @ INTUS | Mexico 2018
 
-## Hosting Studio
+## Hosting Studio | Organizador
 [INTUS Interactive Design](http://intus.tv/)
 
-## Artist | Instructors
-Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
+## Artist Instructors | Instructores
+Matthew Ragan | [matthewragan.com](https://matthewragan.com) 
 Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)  
 Materializing Interactive Research | [mir.works](https://mir.works)
 
-## Overview
+## Dependencies | Dependencias
+* [TouchDesigner099](https://www.derivative.ca/099/Downloads/)  
+* [Python](https://www.python.org/)  
+
+## Overview | Resumen
 A three day workshop for beginners to advanced users of Derivative's TouchDesigner.
+
+Un taller de tres días sobre Derivative TouchDesigner para usuarios principiantes a avanzados.
 
 ## Day 1 | Beginner
 ### Session Highlights
@@ -22,6 +28,19 @@ A three day workshop for beginners to advanced users of Derivative's TouchDesign
 * Foundational principles for creating generative artwork
 * Experience projection mapping with TouchDesigner
 * An introduction to Python as a scripting language
+
+## Día 1 | Principiante
+### Sesión
+* Navegando el ambiente y la plataforma de TouchDesigner
+* Mejores prácticas para desarrollo y organización  
+* Manipulación de imágenes en tiempo real con postproceso
+* Composición 3D en tiempo real 
+* Geometría de procedimiento y mundos generativos
+* Cómo crear interfaces de usuario para sistemas interactivos
+* Principales fundamentales para crear arte generativo
+* Experiencia videomapping usando TouchDesigner
+* Una introducción a Python como lenguaje de programación 
+
 
 # Workshop Schedule
 Time | Topic | Lead Instructor
