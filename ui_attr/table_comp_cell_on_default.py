@@ -1,2 +1,2 @@
-bgcolor		0.21	0.22	0.25	1
+bgcolor		0.1	0.1	0.1	1
 textlabel	labels				
