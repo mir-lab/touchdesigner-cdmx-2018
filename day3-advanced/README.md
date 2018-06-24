@@ -4,7 +4,7 @@
 [INTUS Interactive Design](http://intus.tv/)
 
 ## Artist Instructors | Instructores
-Matthew Ragan | [matthewragan.com](https://matthewragan.com) 
+Matthew Ragan | [matthewragan.com](https://matthewragan.com)  
 Zoe Sandoval | [zoesandoval.com](https://zoesandoval.com)  
 Materializing Interactive Research | [mir.works](https://mir.works)
 
@@ -77,3 +77,6 @@ Hora | Tema | Instructor Principal
 4:30p | Manipulación de Instancias | Matt
 5:00p | Arquitectura de Sistemas Grandes | Matt
 6:00p | Fin | Todos
+
+# Additional GLSL Functions
+[Cabibo Curl Noise](https://github.com/cabbibo/glsl-curl-noise/blob/master/curl.glsl)
